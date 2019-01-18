@@ -15,7 +15,7 @@ golang : https://github.com/doubliekill/EnterpriseWechatSDK  1006401052yh@gmail.
 # Director 
 
 ├── wxbizmsgcrypt  
-│   ├── wxbizmsgcrypt.go 
+│   ├── wxbizmsgcrypt.go   
 ├── sample.go  
 ├── README.md  
 
