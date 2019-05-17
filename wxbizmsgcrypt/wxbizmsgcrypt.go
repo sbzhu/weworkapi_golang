@@ -17,20 +17,20 @@ import(
 const letterBytes = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
 
 const (
-    ValidateSignatureError int = -40001
-    ParseXmlError int = -40002
-    ComputeSignatureError int = -40003
-    IllegalAesKey int = -40004
-    ValidateCorpidError int = -40005
-    EncryptAESError int = -40006
-    DecryptAESError int = -40007
-    IllegalBuffer int = -40008
+	ValidateSignatureError int = -40001
+	ParseXmlError int = -40002
+	ComputeSignatureError int = -40003
+	IllegalAesKey int = -40004
+	ValidateCorpidError int = -40005
+	EncryptAESError int = -40006
+	DecryptAESError int = -40007
+	IllegalBuffer int = -40008
 	EncodeBase64Error int = -40009
 	DecodeBase64Error int = -40010
 	GenXmlError int = -40010
-    ParseJsonError int = -40012
-    GenJsonError int = -40013
-    IllegalProtocolType int = -40014
+	ParseJsonError int = -40012
+	GenJsonError int = -40013
+	IllegalProtocolType int = -40014
 )
 
 type ProtocolType int
