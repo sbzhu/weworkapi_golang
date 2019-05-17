@@ -30,7 +30,7 @@ php:
 golang: 
 
 * https://github.com/sbzhu/weworkapi_golang  ryanjelin@tencent.com(企业微信团队)
-* golang : https://github.com/doubliekill/EnterpriseWechatSDK  1006401052yh@gmail.com(个人开发者)
+* https://github.com/doubliekill/EnterpriseWechatSDK  1006401052yh@gmail.com(个人开发者)
 
 ## Contact us
 ryanjelin@tencent.com  
