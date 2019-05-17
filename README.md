@@ -1,4 +1,4 @@
-# weworkapi_golang
+## weworkapi_golang
 
 weworkapi_golang 是为了简化开发者对企业微信API接口的使用而设计的，API调用加解密库之golang版本 
 
@@ -6,13 +6,6 @@ weworkapi_golang 是为了简化开发者对企业微信API接口的使用而设
 
 将本项目下载到你的目录，既可直接引用相关文件  
 详细使用方法参考[sample.go](https://github.com/sbzhu/weworkapi_golang/blob/master/sample.go)代码
-
-## Director 
-
-├── wxbizmsgcrypt
-│   ├── wxbizmsgcrypt.go
-├── sample.go
-├── README.md
 
 ## About
 
