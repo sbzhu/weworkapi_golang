@@ -117,7 +117,8 @@ func main() {
 	if nil != crypt_err {
 		fmt.Println("DecryptMsg fail", crypt_err)
 	}
-	fmt.Println("after encrypt sEncrytMsg: ", string(encrypt_msg))
+	sEncryptMsg := string(encrypt_msg)
+	fmt.Println("after encrypt sEncrytMsg: ", sEncryptMsg)
 	// 加密成功
 	// TODO:
 	// HttpUtils.SetResponse(sEncryptMsg)
