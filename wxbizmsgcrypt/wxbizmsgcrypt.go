@@ -27,7 +27,7 @@ const (
 	IllegalBuffer          int = -40008
 	EncodeBase64Error      int = -40009
 	DecodeBase64Error      int = -40010
-	GenXmlError            int = -40010
+	GenXmlError            int = -40011
 	ParseJsonError         int = -40012
 	GenJsonError           int = -40013
 	IllegalProtocolType    int = -40014
