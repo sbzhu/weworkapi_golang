@@ -17,9 +17,9 @@ type MsgContent struct {
 }
 
 func main() {
-	token := "QDG6eK"
+	token := "xxxxxxxxxx"
 	receiverId := "wx5823bf96d3bd56c7"
-	encodingAeskey := "jWmYm7qr5nMoAUwZRjGtBxmz3KA1tkAj3ykkR6q2B2C"
+	encodingAeskey := "xxxxxxxxxxxxxxxx"
 	wxcpt := wxbizmsgcrypt.NewWXBizMsgCrypt(token, encodingAeskey, receiverId, wxbizmsgcrypt.XmlType)
 	/*
 	   	------------使用示例一：验证回调URL---------------
